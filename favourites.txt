@@ -1,7 +1,18 @@
 1.Biriyani 
 2.Pasta
+<<<<<<< HEAD
 3.Fried Rice
 Avengers End Game 
 Infinity War 
 Transformers 
 Old Boy
+=======
+3.LEmon Juice
+4.Apple Juice
+5.Chicken Rice
+6.Cheese pasta
+7.French Fries
+8.Noodles 
+9.Cake
+
+>>>>>>> foods
