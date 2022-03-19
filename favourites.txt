@@ -2,8 +2,8 @@ Hello World
 React
 1.Biriyani 
 2.Pasta
-3.LEmon juice
-4.Apple juice
+3.LEmon juices
+4.Apple juices
 5.Chicken Rice
 6.Cheese pasta
 7.French Fries
