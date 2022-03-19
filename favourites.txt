@@ -2,4 +2,9 @@
 2.Pasta
 3.LEmon Juice
 4.Apple Juice
+5.Chicken Rice
+6.Cheese pasta
+7.French Fries
+8.Noodles 
+9.Cake
 
